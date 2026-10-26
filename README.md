@@ -36,6 +36,8 @@ Point-of-sale software designed specifically for cafés, handling coffee, pastri
 - Provides an easy-to-use interface for managing orders, sales, and transactions.
 - Built with C# Windows Forms and XAMPP MySQL (MariaDB).
 
+
+---
 <img height="198" alt="Yokoso" src="https://github.com/user-attachments/assets/fdd7efb3-5ba0-40e4-a1c1-70c1197258aa" />
 <img height="198" alt="images" src="https://github.com/user-attachments/assets/065d6f2c-23b5-4d99-9ce8-4266268f3186" />
 <img height="198" alt="Thomas_C _Lea_III_-_That_Two-Thousand_Yard_Stare_-_Original" src="https://github.com/user-attachments/assets/c4156411-72a5-42fe-a8b4-582a431715b4" />
