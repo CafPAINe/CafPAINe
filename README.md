@@ -5,22 +5,36 @@
 BS Computer Engineering student from Rizal Technological University (5th Year)
 Pronouns: ATTACK/HELICOPTER 
 
-Projects:
-TallyBot: Shopping Cart that can Recognize Products and calculate Total Cost. 
-	Uses YOLOv11n, an Artificial Intelligence designed to recognize objects based on the model that we have trained.
-	Uses Python, HTML, CSS, Bootstrap, JavaScript, Flask
+## Projects
 
-PawLink Solutions: A company website designed to accommodate potential and existing clients. 
-Provides an easy to access website for monitoring dashboard for purchased products. 
-	Uses Python, HTML, CSS, Bootstrap, JavaScript, Flask, and MySQL (MariaDB)
+### TallyBot
 
-Computer Repair Shop: A point-of-sale and inventory management software designed for computer repair businesses. 
-It manages repair parts sales and repair services transactions while tracking inventory levels in real time.
-	Uses C# Windows Form and XAMPP MySQL (MariaDB)
+Shopping cart application that recognizes products and calculates the total cost.
 
-FanerSay Cafe: A point-of-sale (POS) software designed specifically for cafés, handling coffee, pastries, and other food items efficiently. 
-It provides an easy-to-use interface for managing orders, sales, and transactions.
-	Uses C# Windows Form and XAMPP MySQL (MariaDB)
+- Uses YOLOv11n, an artificial intelligence model trained to recognize objects.
+- Built with Python, HTML, CSS, Bootstrap, JavaScript, and Flask.
+
+### PawLink Solutions
+
+Company website designed to accommodate potential and existing clients.
+
+- Provides an easily accessible monitoring dashboard for purchased products.
+- Built with Python, HTML, CSS, Bootstrap, JavaScript, Flask, and MySQL (MariaDB).
+
+### Computer Repair Shop
+
+Point-of-sale and inventory management software designed for computer repair businesses.
+
+- Manages repair-part sales and repair-service transactions.
+- Tracks inventory levels in real time.
+- Built with C# Windows Forms and XAMPP MySQL (MariaDB).
+
+### FanerSay Cafe
+
+Point-of-sale software designed specifically for cafés, handling coffee, pastries, and other food items efficiently.
+
+- Provides an easy-to-use interface for managing orders, sales, and transactions.
+- Built with C# Windows Forms and XAMPP MySQL (MariaDB).
 
 <img height="198" alt="Yokoso" src="https://github.com/user-attachments/assets/fdd7efb3-5ba0-40e4-a1c1-70c1197258aa" />
 <img height="198" alt="images" src="https://github.com/user-attachments/assets/065d6f2c-23b5-4d99-9ce8-4266268f3186" />
