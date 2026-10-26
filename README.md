@@ -22,7 +22,7 @@ FanerSay Cafe: A point-of-sale (POS) software designed specifically for cafés, 
 It provides an easy-to-use interface for managing orders, sales, and transactions.
 	Uses C# Windows Form and XAMPP MySQL (MariaDB)
 
-<img width="254" alt="Yokoso" src="https://github.com/user-attachments/assets/fdd7efb3-5ba0-40e4-a1c1-70c1197258aa" />
-<img width="254" alt="images" src="https://github.com/user-attachments/assets/065d6f2c-23b5-4d99-9ce8-4266268f3186" />
-<img width="254" alt="Thomas_C _Lea_III_-_That_Two-Thousand_Yard_Stare_-_Original" src="https://github.com/user-attachments/assets/c4156411-72a5-42fe-a8b4-582a431715b4" />
-<img width="254" alt="Apex Legends" src="https://github.com/user-attachments/assets/37d59161-8c38-4fd1-917b-f239dbbfc3dd" />
+<img height="254" alt="Yokoso" src="https://github.com/user-attachments/assets/fdd7efb3-5ba0-40e4-a1c1-70c1197258aa" />
+<img height="254" alt="images" src="https://github.com/user-attachments/assets/065d6f2c-23b5-4d99-9ce8-4266268f3186" />
+<img height="254" alt="Thomas_C _Lea_III_-_That_Two-Thousand_Yard_Stare_-_Original" src="https://github.com/user-attachments/assets/c4156411-72a5-42fe-a8b4-582a431715b4" />
+<img height="254" alt="Apex Legends" src="https://github.com/user-attachments/assets/37d59161-8c38-4fd1-917b-f239dbbfc3dd" />
